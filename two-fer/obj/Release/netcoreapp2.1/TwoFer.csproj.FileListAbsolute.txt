@@ -1,0 +1,3 @@
+C:\Users\tristan\Exercism\csharp\two-fer\obj\Release\netcoreapp2.1\TwoFer.csproj.CoreCompileInputs.cache
+C:\Users\tristan\Exercism\csharp\two-fer\obj\Release\netcoreapp2.1\TwoFer.AssemblyInfoInputs.cache
+C:\Users\tristan\Exercism\csharp\two-fer\obj\Release\netcoreapp2.1\TwoFer.AssemblyInfo.cs
